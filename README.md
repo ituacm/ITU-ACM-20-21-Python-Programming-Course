@@ -1,3 +1,5 @@
+# ITU-ACM-20-21-Python-Programming-Course
+
 ### Prerequisities
 
  - Curiosity about programming.
@@ -41,11 +43,11 @@ The goal of that course is both giving basic informations about Python Programmi
 
 # Important Links
 
-You can add links here about your program...
+Will be added soon...
 
 # Suggested Readings
 
-You can add readings here about your program...
+Will be added soon...
 
 <p align="center">
   <a href="//ituacm.com" target="_blank">
