@@ -1,43 +1,40 @@
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
-
-### Instructors
-
-**Your Name and Surname**
-
-*Computer Engineering #4 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-**Your Name and Surname**
-
-*Computer Engineering #3 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-
 ### Prerequisities
 1. Basic knowledge about any programming language.
-2. so on...
+2. 
 
 ### Goal
 
-goals about program...
-
+The goal of that course is both giving basic informations about Python Programming that you can improve yourself after course and prepare a base knowledge for participants about Python programming related areas of computer sciences. This course aims to dive deep into programming logic.
+  
 ### Syllabus
 
-|  #Date |  #Topic  | #Description  |
-| :------------: | :------------: | :------------: |
-| 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
-| 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
-| 1 September 2019  |  Exchange Rate App baslangic.  | Projeye başlangıç. Kullanışlı Componentler ve API çağırmaları hakkında genel bilgiler  |
-| 1 September 2019  |  Exchange Rate App e navigation ekleme.  | React Navigation kütüphanesi hakkında genel bilgiler  |
-| 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
-| 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
-
+|     #           |Content                          | Instructor                        
+|----------------|-------------------------------|-----------------------------|
+| Week 1 | Introduction, Input-Output Functions, Data Types, Variables, String Formatting | Hüseyin AVERBEK 
+| Week 2 | Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, Exception Handling (try-except statements), Error Messages, Max-Min functions | Serra BOZKURT
+| Week 3 | Loops(for-while), Break-Continue, Scope Concept and Variables | Hüseyin AVERBEK
+| Week 4 |  Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse), Midterm Contest | Serra BOZKURT
+| Week 5 | Contest Upsolving| Hüseyin AVERBEK
+| Week 6 | Functions, Libraries, Recursion | Serra BOZKURT
+| Week 7 | Objects, Classes, File Operations, Final Contest | Hüseyin AVERBEK
+| Week 8 | Final Contest Upsolving | Serra BOZKURT
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
+## Instructors @I.T.U
+
+| Name and Surname | Social Media |
+|--|--|
+| Serra Bozkurt #2 | [*LinkedIn*](https://www.linkedin.com/in/serra-bozkurt-6308401a3/) |
+| Hüseyin AVERBEK #2 | [*LinkedIn*](https://www.linkedin.com/in/h%C3%BCseyin-averbek-640a921b5/) |
+
+## Assistants @I.T.U
+
+| Name and Surname | Social  |
+|--|--|
+| Gökalp AKARTEPE #2 | [*LinkedIn*](https://www.linkedin.com/in/g%C3%B6kalp-akartepe-4447661aa/) |
+
+> **ProTip:** Instructors and Assistants are also problem setter.
 
 # Important Links
 
@@ -46,10 +43,6 @@ You can add links here about your program...
 # Suggested Readings
 
 You can add readings here about your program...
-
-# Project
-Short project details. For more information visit the [Project file](/Project)
-
 
 <p align="center">
   <a href="//ituacm.com" target="_blank">
