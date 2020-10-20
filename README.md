@@ -1,6 +1,5 @@
 ### Prerequisities
 1. Basic knowledge about any programming language.
-2. 
 
 ### Goal
 
@@ -9,7 +8,7 @@ The goal of that course is both giving basic informations about Python Programmi
 ### Syllabus
 
 |     #           |Content                          | Instructor                        
-|----------------|-------------------------------|-----------------------------|
+| :----------------: | :-------------------------------: | :-----------------------------: |
 | Week 1 | Introduction, Input-Output Functions, Data Types, Variables, String Formatting | Hüseyin AVERBEK 
 | Week 2 | Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, Exception Handling (try-except statements), Error Messages, Max-Min functions | Serra BOZKURT
 | Week 3 | Loops(for-while), Break-Continue, Scope Concept and Variables | Hüseyin AVERBEK
