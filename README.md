@@ -1,17 +1,17 @@
 # ITU ACM 2020-2021 Python Programming Course
 
-### Prerequisities
+## Prerequisities
 
  - Curiosity about programming.
  - Being excited to learn Python.
  - Having an account on HackerRank.
  - Zoom account.
 
-### Goal
+## Goal
 
 The goal of that course is both giving basic informations about Python Programming that you can improve yourself after course and prepare a base knowledge for participants about Python programming related areas of computer sciences. This course aims to dive deep into programming logic.
   
-### Syllabus
+## Syllabus
 
 |     #           |Content                          | Instructor                        
 | :----------------: | :-------------------------------: | :-----------------------------: |
@@ -41,12 +41,12 @@ The goal of that course is both giving basic informations about Python Programmi
 
 > **ProTip:** Instructors and Assistants are also problem setter.
 
-# Setup
+## Setup
 
 - Python 3.9.0 for [*Windows*](https://www.python.org/downloads/windows/), [*Mac OS X*](https://www.python.org/downloads/mac-osx/), [*Linux/UNIX*](https://www.python.org/downloads/source/)
 - PyCharm for [*Windows*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC), [*Mac OS X*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC), [*Linux/UNIX*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux&code=PCC)
 
-# Suggested Readings & Important Links
+## Suggested Readings & Important Links
 
 Will be added soon...
 
