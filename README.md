@@ -1,5 +1,9 @@
 ### Prerequisities
-1. Basic knowledge about any programming language.
+
+ - Curiosity about programming.
+ - Being excited to learn Python.
+ - Having an account on HackerRank.
+ - Zoom account.
 
 ### Goal
 
