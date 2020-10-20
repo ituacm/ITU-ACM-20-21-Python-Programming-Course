@@ -4,12 +4,12 @@
 
  - Curiosity about programming.
  - Being excited to learn Python.
- - Having an account on HackerRank.
+ - Having an account on [HackerRank](https://www.hackerrank.com/).
  - Zoom account.
 
 ## Goal
 
-The goal of that course is both giving basic informations about Python Programming that you can improve yourself after course and prepare a base knowledge for participants about Python programming related areas of computer sciences. This course aims to dive deep into programming logic.
+The goal of that course is both giving basic informations about Python Programming that you can improve yourself after course and prepare a base knowledge for participants about Python programming related areas of computer science. This course aims to dive deep into programming logic.
   
 ## Syllabus
 
@@ -30,7 +30,7 @@ The goal of that course is both giving basic informations about Python Programmi
 
 | Name and Surname | Social Media |
 |:--:|:--:|
-| Serra Bozkurt #2 | [*LinkedIn*](https://www.linkedin.com/in/serra-bozkurt-6308401a3/) |
+| Serra Bozkurt #2 | [*LinkedIn*](https://www.linkedin.com/in/serrabozkurt/) |
 | Hüseyin Averbek #2 | [*LinkedIn*](https://www.linkedin.com/in/h%C3%BCseyin-averbek-640a921b5/) |
 
 ## Assistants @I.T.U
