@@ -41,11 +41,12 @@ The goal of that course is both giving basic informations about Python Programmi
 
 > **ProTip:** Instructors and Assistants are also problem setter.
 
-# Important Links
+# Setup
 
-Will be added soon...
+- Python 3.9.0 for [*Windows*](https://www.python.org/downloads/windows/), [*Mac OS X*](https://www.python.org/downloads/mac-osx/), [*Linux/UNIX*](https://www.python.org/downloads/source/)
+- PyCharm for [*Windows*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC), [*Mac OS X*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC), [*Linux/UNIX*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux&code=PCC)
 
-# Suggested Readings
+# Suggested Readings & Important Links
 
 Will be added soon...
 
