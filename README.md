@@ -29,14 +29,14 @@ The goal of that course is both giving basic informations about Python Programmi
 ## Instructors @I.T.U
 
 | Name and Surname | Social Media |
-|--|--|
+|:--:|:--:|
 | Serra Bozkurt #2 | [*LinkedIn*](https://www.linkedin.com/in/serra-bozkurt-6308401a3/) |
 | Hüseyin Averbek #2 | [*LinkedIn*](https://www.linkedin.com/in/h%C3%BCseyin-averbek-640a921b5/) |
 
 ## Assistants @I.T.U
 
 | Name and Surname | Social  |
-|--|--|
+|:--:|:--:|
 | Gökalp Akartepe #2 | [*LinkedIn*](https://www.linkedin.com/in/g%C3%B6kalp-akartepe-4447661aa/) |
 
 > **ProTip:** Instructors and Assistants are also problem setter.
