@@ -21,7 +21,7 @@ The goal of that course is both giving basic informations about Python Programmi
 | Week 4 |  Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse), Midterm Contest | Serra Bozkurt
 | Week 5 | Contest Upsolving | Hüseyin Averbek
 | Week 6 | Functions, Libraries, Recursion | Serra Bozkurt
-| Week 7 | Objects/Classes, init/self, File Operations, Final Contest | Hüseyin Averbek
+| Week 7 | Iterator/Generator, Object/Class, init/self, File Operations, Final Contest | Hüseyin Averbek
 | Week 8 | Final Contest Upsolving | Serra Bozkurt
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
