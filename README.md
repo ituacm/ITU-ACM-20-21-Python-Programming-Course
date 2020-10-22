@@ -15,8 +15,8 @@ The goal of that course is both giving basic informations about Python Programmi
 
 |     #           |Content                          | Instructor                        
 | :----------------: | :-------------------------------: | :-----------------------------: |
-| Week 1 | Introduction, Input-Output Functions, Data Types, Variables, String Formatting | Hüseyin Averbek 
-| Week 2 | Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, Exception Handling (try-except statements), Error Messages, Max-Min functions | Serra Bozkurt
+| Week 1 | Introduction, Input-Output Functions, Data Types, Variables, String Formatting, Max-Min functions | Hüseyin Averbek 
+| Week 2 | Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, Exception Handling (try-except statements), Error Messages | Serra Bozkurt
 | Week 3 | Loops(for-while), Break-Continue, Scope Concept and Variables | Hüseyin Averbek
 | Week 4 |  Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse), Midterm Contest | Serra Bozkurt
 | Week 5 | Contest Upsolving| Hüseyin Averbek
