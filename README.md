@@ -17,10 +17,10 @@ The goal of that course is both giving basic informations about Python Programmi
 | :----------------: | :-------------------------------: | :-----------------------------: |
 | Week 1 | Introduction, Input-Output Functions, Data Types, Variables, String Formatting, Max-Min functions | Hüseyin Averbek 
 | Week 2 | Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, Exception Handling (try-except statements), Error Messages | Serra Bozkurt
-| Week 3 | Loops(for-while), Break-Continue, Scope Concept and Variables | Hüseyin Averbek
+| Week 3 | Loops(for-while), Break-Continue | Hüseyin Averbek
 | Week 4 |  Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse), Midterm Contest | Serra Bozkurt
 | Week 5 | Contest Upsolving | Hüseyin Averbek
-| Week 6 | Functions, Libraries, Recursion | Serra Bozkurt
+| Week 6 | Functions, Libraries, Recursion, Scope Concept and Variables | Serra Bozkurt
 | Week 7 | Iterator/Generator, Object/Class, init/self, File Operations, Final Contest | Hüseyin Averbek
 | Week 8 | Final Contest Upsolving | Serra Bozkurt
 
