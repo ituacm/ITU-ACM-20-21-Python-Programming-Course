@@ -17,7 +17,7 @@ The goal of that course is both giving basic informations about Python Programmi
 | :----------------: | :-------------------------------: | :-----------------------------: |
 | [Week 1](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week1) | Introduction, Input-Output Functions, Data Types, Variables, Basic String Operations, max-min functions | Hüseyin Averbek 
 | [Week 2](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week2) | Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, String and Number Functions  | Serra Bozkurt
-| Week 3 | Loops(for-while), break-continue-pass, Exception Handling (try-except statements), Error Messages, String Formatting | Hüseyin Averbek
+| [Week 3](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week3) | Loops(for-while), break-continue-pass, Exception Handling (try-except statements), Error Messages, String Formatting | Hüseyin Averbek
 | Week 4 |  Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse), Midterm Contest | Serra Bozkurt
 | Week 5 | Contest Upsolving | Gökalp Akartepe
 | Week 6 | Functions, Libraries, Recursion, Scope Concept and Variables | Serra Bozkurt
