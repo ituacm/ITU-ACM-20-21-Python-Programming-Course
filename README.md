@@ -21,8 +21,7 @@ The goal of that course is both giving basic informations about Python Programmi
 | [Week 4](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week4) |  Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse), Midterm Contest | Serra Bozkurt
 | Week 5 | Contest Upsolving | Gökalp Akartepe
 | Week 6 | Functions, Libraries, Recursion, Scope Concept and Variables | Serra Bozkurt
-| Week 7 | Iterator/Generator, Object/Class, init/self, File Operations, Final Contest | Hüseyin Averbek
-| Week 8 | Final Contest Upsolving | Gökalp Akartepe
+| Week 7 | Iterator/Generator, Object/Class, init/self, File Operations | Hüseyin Averbek
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
@@ -46,9 +45,6 @@ The goal of that course is both giving basic informations about Python Programmi
 - Python 3.9.0 for [*Windows*](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe), [*Mac OS X*](https://www.python.org/downloads/mac-osx/), [*Linux/UNIX*](https://www.python.org/downloads/source/)
 - PyCharm for [*Windows*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC), [*Mac OS X*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC), [*Linux/UNIX*](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux&code=PCC) **OR** VS Code for [*Windows*](https://code.visualstudio.com/docs/?dv=win), [*Mac OS X*](https://code.visualstudio.com/docs/?dv=osx), [*Linux/UNIX*](https://code.visualstudio.com/docs/?dv=linux64_deb)
 
-## Suggested Readings & Important Links
-
-Will be added soon...
 
 <p align="center">
   <a href="//ituacm.com" target="_blank">
