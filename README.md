@@ -13,15 +13,15 @@ The goal of that course is both giving basic informations about Python Programmi
   
 ## Syllabus
 
-|     #           |Content                          | Instructor                        
-| :----------------: | :-------------------------------: | :-----------------------------: |
-| [Week 1](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week1) | Introduction, Input-Output Functions, Data Types, Variables, Basic String Operations, max-min functions | Hüseyin Averbek 
-| [Week 2](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week2) | Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, String and Number Functions  | Serra Bozkurt
-| [Week 3](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week3) | Loops(for-while), break-continue-pass, Exception Handling (try-except statements), Error Messages, String Formatting | Hüseyin Averbek
-| [Week 4](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week4) |  Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse), Midterm Contest | Serra Bozkurt
-| Week 5 | Contest Upsolving | Gökalp Akartepe
-| Week 6 | Functions, Libraries, Recursion, Scope Concept and Variables | Serra Bozkurt
-| Week 7 | Iterator/Generator, Object/Class, init/self, File Operations | Hüseyin Averbek
+|     #           |Content                          | Instructor                        | YouTube
+| :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
+| [Week 1](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week1) | Introduction, Input-Output Functions, Data Types, Variables, Basic String Operations, max-min functions | Hüseyin Averbek | [Watch](https://youtu.be/wo1axco4jbU) |
+| [Week 2](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week2) | Conditionals (if-elif-else), Expressions, Boolean & Arithmetic & Logical Operators, String and Number Functions  | Serra Bozkurt| [Watch](https://youtu.be/iEs4WV8SN4E) |
+| [Week 3](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week3) | Loops(for-while), break-continue-pass, Exception Handling (try-except statements), Error Messages, String Formatting | Hüseyin Averbek| [Watch](https://youtu.be/BDs5SE1E8Xo) |
+| [Week 4](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week4) |  Data Structures (List, Tuple, Dictionary, Set), Mutability, Lambda, List Operations(append, pop, del, remove, insert, sort, reverse), Midterm Contest | Serra Bozkurt| [Watch](https://youtu.be/l5zvMWFd0z8) |
+| [Week 5](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week5%20-%20Contest) | Contest Upsolving | Gökalp Akartepe| [Watch](https://youtu.be/pXF8bjVIpxc) |
+| [Week 6](https://github.com/ituacm/ITU-ACM-20-21-Python-Programming-Course/tree/master/Week6) | Functions, Libraries, Recursion, Scope Concept and Variables | Serra Bozkurt| [Watch](https://youtu.be/AeOnQ10Dfvc) |
+| Week 7 | Iterator/Generator, Object/Class, init/self, File Operations | Hüseyin Averbek| [Watch](https://youtu.be/RhApN0yB-Zs) |
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
